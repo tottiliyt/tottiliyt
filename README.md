@@ -4,6 +4,8 @@ My name is Alan Li and I'm a sophomore student at Johns Hopkins University major
 
 You might find my projects interesting if you:
 
+<br>
+
 **want to see how much money Jeff Bezos has???** 
   
   -[ArbitraryPrecisionInteger](https://github.com/tottiliyt/ArbitraryPrecisionInteger)
@@ -11,6 +13,8 @@ You might find my projects interesting if you:
   You can't represent his net worth using int because Jess has
   
   175.3 Billion USD = 175,300,000,000 which is much larger than 2^31 − 1 = 2,147,483,647 
+  
+<br>
 
 **want to make a funny picture of your friend???** 
   
@@ -19,6 +23,8 @@ You might find my projects interesting if you:
   
   <img src="https://github.com/tottiliyt/miniPhotoshop/blob/master/swirl_myself.jpg" width="230" height="250">
 
+<br>
+
 **want to check out what happened today around the world???** 
   
   -[whatHappenedToday](https://github.com/tottiliyt/whatHappenedToday)
@@ -26,12 +32,17 @@ You might find my projects interesting if you:
   
   <img src="https://github.com/tottiliyt/whatHappenedToday/blob/master/Sept13News.jpg" width="450" height="350">
   
+  <br>
+  
 **want to play a game of chasing???** 
   
   -[escapeHero](https://github.com/tottiliyt/escapeHero)
   
+  <img src="https://github.com/tottiliyt/escapeHero/blob/master/demo.gif" width="450" height="250">
+  
   -[spaceInvaders](https://github.com/tottiliyt/spaceInvaders)
 
+<br>
 
 
 **Code for my research projects**
