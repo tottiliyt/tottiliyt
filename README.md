@@ -22,9 +22,14 @@ You might find my project interesting if you:
 
 **want to play a game of chasing???** 
   
-  -[escapeHero](https://github.com/tottiliyt/escapeHero) [spaceInvaders](https://github.com/tottiliyt/spaceInvaders)
+  -[escapeHero](https://github.com/tottiliyt/escapeHero)
+  
+  -[spaceInvaders](https://github.com/tottiliyt/spaceInvaders)
 
 
 
 **Code for my research projects**
-[discreteMathProject](https://github.com/tottiliyt/discreteMathProject) [iRoam](https://github.com/tottiliyt/iRoam)
+
+  -[discreteMathProject](https://github.com/tottiliyt/discreteMathProject)
+  
+  -[iRoam](https://github.com/tottiliyt/iRoam)
