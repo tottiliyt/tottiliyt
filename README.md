@@ -10,7 +10,7 @@ You might find my projects interesting if you:
   
   -[ArbitraryPrecisionInteger](https://github.com/tottiliyt/ArbitraryPrecisionInteger)
   
-  You can't represent his net worth using int because Jess has
+  You can't represent his net worth using int because Jeff has
   
   175.3 Billion USD = 175,300,000,000 which is much larger than 2^31 − 1 = 2,147,483,647 
   
