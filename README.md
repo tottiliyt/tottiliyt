@@ -6,7 +6,7 @@ You might find my projects interesting if you:
 
 <br>
 
-**want to see how much money Jeff Bezos has???** 
+**Want to see how much money Jeff Bezos has???** 
   
   -[ArbitraryPrecisionInteger](https://github.com/tottiliyt/ArbitraryPrecisionInteger)
   
@@ -16,7 +16,7 @@ You might find my projects interesting if you:
   
 <br>
 
-**want to make a funny picture of your friend???** 
+**Want to make a funny picture of your friend???** 
   
   -[miniPhotoshop](https://github.com/tottiliyt/miniPhotoshop)
   (I swirled myself!)
@@ -25,7 +25,7 @@ You might find my projects interesting if you:
 
 <br>
 
-**want to check out what happened today around the world???** 
+**Want to check out what happened today around the world???** 
   
   -[whatHappenedToday](https://github.com/tottiliyt/whatHappenedToday)
   (example below is the word cloud of keywords from trending news on Sept 13 2020)
@@ -34,7 +34,7 @@ You might find my projects interesting if you:
   
   <br>
   
-**want to play a game of chasing???** 
+**Want to play a game of chasing???** 
   
   -[escapeHero](https://github.com/tottiliyt/escapeHero)
   
