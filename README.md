@@ -41,7 +41,8 @@ You might find my projects interesting if you:
   <img src="https://github.com/tottiliyt/escapeHero/blob/master/demo.gif" width="450" height="250">
   
   -[spaceInvaders](https://github.com/tottiliyt/spaceInvaders)
-
+  
+  <img src="https://github.com/tottiliyt/spaceInvaders/blob/master/demo.gif" width="350" height="450">
 <br>
 
 
