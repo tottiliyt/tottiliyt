@@ -38,7 +38,7 @@ You might find my projects interesting if you:
 
   -[Bloo Chat](https://github.com/tottiliyt/chatroom)([deployed on Heroku](https://thawing-retreat-40076.herokuapp.com/))
     
-   <img src="https://github.com/tottiliyt/chatroom/blob/master/screenshot.PNG" width="200" height="250">
+   <img src="https://github.com/tottiliyt/chatroom/blob/master/screenshot.PNG" width="400" height="500">
   
   <br>
   
