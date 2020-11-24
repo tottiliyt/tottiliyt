@@ -16,6 +16,16 @@ You might find my projects interesting if you:
   
 <br>
 
+
+**Want to get an global update of COVID-19???** 
+
+  -[Covid-Stats](https://github.com/tottiliyt/Covid-Stats)
+  
+  <img src="https://github.com/tottiliyt/Covid-Stats/blob/master/screenshot.PNG" width="400" height="200">
+
+<br>
+
+
 **Want to make a funny picture of your friend???** 
   
   -[miniPhotoshop](https://github.com/tottiliyt/miniPhotoshop)
