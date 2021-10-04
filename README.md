@@ -1,6 +1,6 @@
 ### Hi there! 
 
-My name is Alan Li and I'm a sophomore student at Johns Hopkins University majoring in Computer Science and Applied Mathematics & Statistics. 
+My name is Alan Li and I'm a junior student at Johns Hopkins University majoring in Computer Science and Applied Mathematics & Statistics. 
 
 You might find my projects interesting if you:
 
